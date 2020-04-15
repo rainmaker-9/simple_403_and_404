@@ -1,0 +1,3 @@
+ErrorDocument 403 /maintenance.html
+Order Allow,Deny
+Allow from 123.456.789.000
